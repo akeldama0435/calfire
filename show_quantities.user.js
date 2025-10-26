@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         CAL FIRE – Show Structures Damaged/Destroyed in Incidents List (Pagination Fixed)
-// @namespace    -
+// @namespace    https://github.com/akeldama0435?tab=repositories
 // @version      1.2
 // @description  Adds columns “Structures Damaged” and “Structures Destroyed” to the CAL FIRE Incidents page, fetching data from individual incident pages. Works across all paginated results.
 // @match        https://www.fire.ca.gov/incidents/*
